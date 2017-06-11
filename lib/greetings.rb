@@ -1,0 +1,3 @@
+module Greetings
+  # Your code goes here...
+end
